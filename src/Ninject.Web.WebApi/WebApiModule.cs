@@ -27,6 +27,7 @@ namespace Ninject.Web.WebApi
     using System.Web.Routing;
 
     using Ninject.Web.Common;
+    using Ninject.Web.Common.WebHost;
     using Ninject.Web.WebApi.Filter;
     using Ninject.Web.WebApi.Validation;
 

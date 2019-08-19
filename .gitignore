@@ -15,3 +15,7 @@ _ReSharper.Ninject.Web.WebApi
 /lib/Ninject.Extensions.NamedScope/*/**
 /lib/Ninject.Extensions.ContextPreservation/*.zip
 /lib/Ninject.Extensions.ContextPreservation/*/**
+/.vs/Ninject.Web.WebApi/v15/Server/sqlite3/storage.ide-wal
+/.vs/Ninject.Web.WebApi/v15/Server/sqlite3/storage.ide-shm
+/.vs/Ninject.Web.WebApi/v15/Server/sqlite3/storage.ide
+/.vs/Ninject.Web.WebApi/v15/Server/sqlite3/db.lock
